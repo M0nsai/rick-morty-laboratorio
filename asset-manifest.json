@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rick-morty-laboratorio/static/css/main.9c5ea9c8.css",
+    "main.js": "/rick-morty-laboratorio/static/js/main.a1506d64.js",
+    "static/js/453.24e14e44.chunk.js": "/rick-morty-laboratorio/static/js/453.24e14e44.chunk.js",
+    "static/media/rick-morty.png": "/rick-morty-laboratorio/static/media/rick-morty.ed9fa0be01b38da56af4.png",
+    "index.html": "/rick-morty-laboratorio/index.html",
+    "main.9c5ea9c8.css.map": "/rick-morty-laboratorio/static/css/main.9c5ea9c8.css.map",
+    "main.a1506d64.js.map": "/rick-morty-laboratorio/static/js/main.a1506d64.js.map",
+    "453.24e14e44.chunk.js.map": "/rick-morty-laboratorio/static/js/453.24e14e44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5ea9c8.css",
+    "static/js/main.a1506d64.js"
+  ]
+}
